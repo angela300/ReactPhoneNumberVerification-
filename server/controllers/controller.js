@@ -1,5 +1,5 @@
 const textflow = require("textflow.js");
-textflow.useKey("YOUR_API_KEY"); // dont forget to change this
+textflow.useKey("YGPur12w9nlBCfDksKgmuppf20fvVgZDnRdVmscuGS745fTACsadvbYqKZ7XwdeZ"); // dont forget to change this
 
 const sendVerificationCode = async(req, res) =>{
 
